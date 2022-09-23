@@ -1,0 +1,7 @@
+[
+    {"name":"Nirvana", "members":[
+        {"name":"Kurt Cobain","instrument":"guitar"},
+        {"name":"Krist Novoselic","instrument":"bass"},
+        {"name":"Dave Grohl","instrument":"drums"}
+    ]}
+]

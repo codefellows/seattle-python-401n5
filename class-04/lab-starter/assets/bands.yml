@@ -1,0 +1,23 @@
+-
+    name: Nirvana
+    members:
+        -
+            name: Kurt Cobain
+            instrument: guitar
+        -
+            name: Krist Novoselic
+            instrument: bass
+        -
+            name: Dave Grohl
+            instrument: drums
+-
+    name: The Pixies
+    members:
+        -
+            name: Black Francis
+            instrument: guitar
+        -
+            name: Kim Deal
+            instrument: bass
+
+
